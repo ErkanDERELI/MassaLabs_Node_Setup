@@ -9,7 +9,7 @@ warn=$(tput setaf 214)
 reset=$(tput sgr0)
 
 clear;
-echo "Altay - Massa Node Installation"
+echo "MassaLabs  Node Installation"
 sleep 3
 
 # server update and port settings
