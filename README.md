@@ -3,12 +3,12 @@ sudo apt-get update && sudo apt-get upgrade
 screen -S MassaNode
 
 
-sudo apt install ufw -y
-sudo ufw allow 22
-sudo ufw allow ssh
-sudo ufw allow 31244/tcp
-sudo ufw allow 31245/tcp
-sudo ufw enable
+sudo apt install ufw -y 
+sudo ufw allow 22 
+sudo ufw allow ssh 
+sudo ufw allow 31244/tcp 
+sudo ufw allow 31245/tcp 
+sudo ufw enable 
 
 
 sudo apt install pkg-config curl git build-essential libssl-dev libclang-dev cmake
