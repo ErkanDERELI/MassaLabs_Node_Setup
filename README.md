@@ -43,7 +43,7 @@ Kayıt için: CTRL X   daha sonra Y ile kaydet. Enter ile çıkış yap.
 
 cd massa/massa-node/
 
-RUST_BACKTRACE=full cargo run --release -- -p <PASSWORD> |& tee logs.txt 
+RUST_BACKTRACE=full cargo run --release -- -p  <PASSWORD> |& tee logs.txt 
 
 ( Type our own hard-to-find password where it says PASSWORD. )
 
