@@ -40,7 +40,7 @@ rustup default 1.74.1
 rustc --version
 
 # From binaries
-wget https://github.com/massalabs/massa/releases/download/MAIN.1.0/massa_MAIN.2.0_release_linux.tar.gz
+wget https://github.com/massalabs/massa/releases/download/MAIN.2.0/massa_MAIN.2.0_release_linux.tar.gz
 tar -xf massa_MAIN.2.0_release_linux.tar.gz
 
 # settings file
