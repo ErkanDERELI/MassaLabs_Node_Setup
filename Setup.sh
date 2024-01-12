@@ -40,8 +40,8 @@ rustup default nightly-2023-02-27
 rustc --version
 
 # From binaries
-wget https://github.com/massalabs/massa/releases/download/MAIN.1.0/massa_MAIN.1.0_release_linux.tar.gz
-tar -xf massa_MAIN.1.0_release_linux.tar.gz
+wget https://github.com/massalabs/massa/releases/download/MAIN.1.0/massa_MAIN.2.0_release_linux.tar.gz
+tar -xf massa_MAIN.2.0_release_linux.tar.gz
 
 # settings file
 clear;
