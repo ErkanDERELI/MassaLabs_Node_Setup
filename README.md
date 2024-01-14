@@ -71,7 +71,7 @@ Kayıt için: CTRL X   daha sonra Y ile kaydet. Enter ile çıkış yap.
 cd massa/massa-node/
 ```
 
-**( Type our own hard-to-find password where it says PASSWORD. ) PASSWORD Yerine kendi şifrenizi yazın ( Tırnaklar Olmadan ) **
+( Type our own hard-to-find password where it says PASSWORD. ) PASSWORD Yerine kendi şifrenizi yazın ( Tırnaklar Olmadan )
 
 ```yaml
 RUST_BACKTRACE=full cargo run --release -- -p <PASSWORD> |& tee logs.txt
