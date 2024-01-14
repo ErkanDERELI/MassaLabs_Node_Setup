@@ -74,7 +74,7 @@ cd massa/massa-node/
 **( Type our own hard-to-find password where it says PASSWORD. ) PASSWORD Yerine kendi şifrenizi yazın ( Tırnaklar Olmadan ) **
 
 ```yaml
-RUST_BACKTRACE=full cargo run --release -- -p  "PASSWORD" |& tee logs.txt
+RUST_BACKTRACE=full cargo run --release -- -p <PASSWORD> |& tee logs.txt
 ```
 
 
@@ -87,7 +87,7 @@ cd massa/massa-client/
 ```
 
 ```yaml
-cargo run --release -- -p "PASSWORD"
+cargo run --release -- -p <PASSWORD>
 ```
 
 ### To switch between "NODE" and "CLIENT" pages   CTRL A + P 
