@@ -1,5 +1,4 @@
-![]([https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png](https://github.com/ErkanDERELI/MassaLabs_Node_Setup/blob/main/Massa_TransBG_Red_Black.png
-)
+![](https://github.com/ErkanDERELI/MassaLabs_Node_Setup/blob/main/Massa_TransBG_Red_Black.png)
 
 
 You can access the installation video here: https://youtu.be/dsr5FgZPSto?si=1QLaGtOEMWzFzfWj
