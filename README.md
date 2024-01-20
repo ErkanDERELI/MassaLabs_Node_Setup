@@ -65,6 +65,7 @@ routable_ip = "88.120.15.55"
 ```
 
 ![](https://github.com/ErkanDERELI/MassaLabs_Node_Setup/blob/main/set_ip.png)
+
 Kayıt için: CTRL X   daha sonra Y ile kaydet. Enter ile çıkış yap.
 
 
